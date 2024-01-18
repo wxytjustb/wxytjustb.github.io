@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Web3",
+        "en_name": "Design FM",
+        "web": [
+            {
+                "url": "https://chainlist.org/",
+                "logo": "assets/images/logos/eth.png",
+                "title": "Chainlist",
+                "desc": "Helping users connect to EVM powered networks"
+            }
+        ]
+    }
+]
