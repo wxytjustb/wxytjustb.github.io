@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkroky_wang=self.webpackChunkroky_wang||[]).push([[7479],{5120:e=>{e.exports=JSON.parse('{"title":"AIGC","description":"AIGC","slug":"/category/aigc","permalink":"/en/docs/category/aigc","navigation":{"previous":{"title":"Intro","permalink":"/en/docs/Intro"},"next":{"title":"Github Copilot","permalink":"/en/docs/AIGC/github-copilot"}}}')}}]);

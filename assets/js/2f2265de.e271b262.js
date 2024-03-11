@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkroky_wang=self.webpackChunkroky_wang||[]).push([[6737],{8951:e=>{e.exports=JSON.parse('{"title":"MiddleWare","slug":"/category/middleware","permalink":"/docs/category/middleware","navigation":{"previous":{"title":"robot","permalink":"/docs/AIGC/robot"},"next":{"title":"minio","permalink":"/docs/MiddleWare/minio"}}}')}}]);

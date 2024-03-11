@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkroky_wang=self.webpackChunkroky_wang||[]).push([[9829],{1135:a=>{a.exports=JSON.parse('{"title":"Database","slug":"/category/database","permalink":"/en/docs/category/database","navigation":{"previous":{"title":"study","permalink":"/en/docs/AIGC/study"},"next":{"title":"Elasticsearch","permalink":"/en/docs/Database/elasticsearch"}}}')}}]);
