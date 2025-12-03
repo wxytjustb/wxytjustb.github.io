@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkroky_wang=self.webpackChunkroky_wang||[]).push([[6072],{6041:e=>{e.exports=JSON.parse('{"title":"Tools","slug":"/category/tools","permalink":"/en/docs/category/tools","navigation":{"previous":{"title":"Minio","permalink":"/en/docs/MiddleWare/minio"},"next":{"title":"frp","permalink":"/en/docs/Tools/frp"}}}')}}]);
