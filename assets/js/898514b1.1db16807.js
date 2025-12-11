@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[9067],{9187:a=>{a.exports=JSON.parse('{"tags":[{"label":"ai","permalink":"/docs/tags/ai","count":1},{"label":"workflow","permalink":"/docs/tags/workflow","count":1},{"label":"automation","permalink":"/docs/tags/automation","count":1}]}')}}]);
